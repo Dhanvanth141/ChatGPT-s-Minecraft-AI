@@ -5,5 +5,5 @@ I want to make it very clear, this is AI made, and is a part of my personal expe
 **DO NOT REPORT ISSUES HERE, AS IT'S NOT BEING RECORDED SINCE IT'S MADE BY AI AND IS BOUND TO HAVE BUGS.**
 
 
-# **what the fuck is this you dumb shit** 
+# **What is this?** 
 AI making pattern-based AI. What do you expect from a lazy madman using his mind to tell the AI to make AI
