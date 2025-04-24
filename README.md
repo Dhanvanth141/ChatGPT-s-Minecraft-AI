@@ -1,2 +1,9 @@
-# ChatGPT-s-Minecraft-AI
-A experiment to see if ChatGPT can create a pattern based lua AI for the Minecraft Mod CC: Tweaked. Made by AI, not the lazy guy before the slash in the url
+# **Experiment repository** 
+I want to make it very clear, this is AI made, and is a part of my personal experiment testing if a AI could create a pattern base AI
+
+
+**DO NOT REPORT ISSUES HERE, AS IT'S NOT BEING RECORDED SINCE IT'S MADE BY AI AND IS BOUND TO HAVE BUGS.**
+
+
+# **what the fuck is this you dumb shit** 
+AI making pattern-based AI. What do you expect from a lazy madman using his mind to tell the AI to make AI
