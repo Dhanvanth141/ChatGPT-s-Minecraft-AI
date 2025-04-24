@@ -5,8 +5,8 @@ if not monitor then
     return
 end
 
--- the computer is gray too yay
-monitor.setBackgroundColor(colors.gray)
+-- no we now red
+monitor.setBackgroundColor(colors.red)
 monitor.clear()
 monitor.setTextColor(colors.white)
 
